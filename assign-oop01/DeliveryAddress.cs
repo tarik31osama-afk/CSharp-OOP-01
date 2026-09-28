@@ -1,6 +1,6 @@
 ﻿namespace assign_oop01
 {
-    internal class DeliveryAddress
+    internal struct DeliveryAddress
     {
         public string City;
         public string Street;
